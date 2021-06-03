@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kota-monstrii2/static/css/main.5131ae92.chunk.css",
+    "main.js": "/kota-monstrii2/static/js/main.21f79cb8.chunk.js",
+    "main.js.map": "/kota-monstrii2/static/js/main.21f79cb8.chunk.js.map",
+    "runtime-main.js": "/kota-monstrii2/static/js/runtime-main.679d5713.js",
+    "runtime-main.js.map": "/kota-monstrii2/static/js/runtime-main.679d5713.js.map",
+    "static/js/2.6a0e3629.chunk.js": "/kota-monstrii2/static/js/2.6a0e3629.chunk.js",
+    "static/js/2.6a0e3629.chunk.js.map": "/kota-monstrii2/static/js/2.6a0e3629.chunk.js.map",
+    "static/js/3.eccf7a57.chunk.js": "/kota-monstrii2/static/js/3.eccf7a57.chunk.js",
+    "static/js/3.eccf7a57.chunk.js.map": "/kota-monstrii2/static/js/3.eccf7a57.chunk.js.map",
+    "index.html": "/kota-monstrii2/index.html",
+    "static/css/main.5131ae92.chunk.css.map": "/kota-monstrii2/static/css/main.5131ae92.chunk.css.map",
+    "static/js/2.6a0e3629.chunk.js.LICENSE.txt": "/kota-monstrii2/static/js/2.6a0e3629.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/kota-monstrii2/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.679d5713.js",
+    "static/js/2.6a0e3629.chunk.js",
+    "static/css/main.5131ae92.chunk.css",
+    "static/js/main.21f79cb8.chunk.js"
+  ]
+}
