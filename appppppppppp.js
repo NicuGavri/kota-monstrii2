@@ -28,7 +28,7 @@ class App extends Component {
 
     return (
       <div className="App">
-      <input type='searchhhh' 
+      <input type='searchhhsh' 
       placeholder='search monsters'
         onChange={e => 
           this.setState({searchField: e.target.value})}
